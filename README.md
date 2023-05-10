@@ -1,7 +1,7 @@
 # Lista de tarefas
-CRUD
-API utilizando: 
-. NodeJs
-. Express
-. Docker
-. Cors
+**CRUD**
+ *API utilizando:* 
+- NodeJs
+- Express
+- Docker
+- Cors
