@@ -1,1 +1,7 @@
-# toDo-list
+# Lista de tarefas
+CRUD
+API utilizando: 
+. NodeJs
+. Express
+. Docker
+. Cors
